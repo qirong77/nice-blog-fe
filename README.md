@@ -1,7 +1,7 @@
 # Nice Front-End Blog Collection 🚀
 
 ## English Blog
-| URL | DESC |
+| URL | Description |
 | --- | --- |
 | [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/) | - |
 | [How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/dom-size-and-interactivity/) | - |
@@ -13,10 +13,9 @@
 | [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/) | - |
 | [Explaining JS VMs in JS Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html) | - |
 | [Syntax Highlighting Optimizations](https://code.visualstudio.com/blogs/2017/02/08/syntax-highlighting-optimizations) | - |
-
-
+|[Flutter vs. React Native: Which Is Better?](https://www.sam-solutions.com/blog/flutter-vs-react-native/)|What is the best choice for the fast and cost-effective development of a cross-platform mobile application in 2024? |
 ## Chinese Blog
-| URL | DEC |
+| URL | Description |
 | --- | --- |
 | [【simple-sheet】前端在线Sheet文档技术解析](https://juejin.cn/post/7125360490347397127#comment) | -|
 | [如何定位解决前端大数据量渲染下的性能问题](https://juejin.cn/post/7145488193314357255) | - |
@@ -27,5 +26,4 @@
 | [https://wangdoc.com/bash/intro](https://wangdoc.com/bash/intro) | shell bash sh 之间的区别 |
 | [vscode 源码精读（一）common base](https://zhuanlan.zhihu.com/p/343443415) |  |
 | [VS Code、ATOM这些开源文本编辑器的代码实现中有哪些奇技淫巧？](https://www.zhihu.com/question/272156541/answer/367784539) | - |
-| [VsCode高亮渲染](https://code.visualstudio.com/blogs/2017/02/08/syntax-highlighting-optimizations) | VsCode高亮渲染的实现原理、性能优化 |
 | [浅析Web录屏技术方案与实现](https://juejin.cn/post/7028723258019020836#heading-7) | - |
